@@ -1,16 +1,20 @@
-### Hi there 👋
-I am Tanmay Pilla, a Software Engineering student at the University of Waterloo. I am a full-stack web development enthusiast passionate about programming and here to share my projects with the world!
-<!--
-**tanmaypilla/tanmaypilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Tanmay Pilla! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate programmer with a keen interest in data science and data engineering. I love working with data, exploring insights, and building scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💼 Currently seeking data science/data engineering roles.
+- 🎓 Pursuing a degree in Software Engineering ('26) @University of Waterloo.
+- 💻 Skilled in Python, SQL, and data manipulation/analysis libraries (e.g. Pandas, NumPy).
+- 📊 Experienced in data visualization and storytelling using tools like Matplotlib and Tableau.
+- ⚙️ Familiar with data engineering concepts and tools (e.g. ETL Pipelines, Stored Procedures).
+- 🌱 Continuously learning and exploring new technologies and industry trends in data science and engineering.
+- 📫 You can reach me at tpilla@uwaterloo.ca.
+
+## Connect with Me
+
+I'm always open to interesting collaborations and opportunities. Connect with me on:
+
+- LinkedIn: (https://www.linkedin.com/in/tanmaypilla/)
+
